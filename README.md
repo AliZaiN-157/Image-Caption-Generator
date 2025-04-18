@@ -104,7 +104,7 @@ This project is designed to run smoothly within a Kaggle Notebook environment.
 *   **Qualitative Comparison:** As seen in the demo (and further examples generated during runs), BLIP-2 generally produces more descriptive, fluent, and contextually rich captions due to its massive pre-training. The custom MobileNetV2-LSTM model captures the core subjects and actions effectively but tends to generate simpler sentence structures.
 *   **Trade-offs:** Training a custom model provides fine-grained control but requires significant data and tuning for state-of-the-art results. Pre-trained models like BLIP-2 offer excellent performance out-of-the-box but come with higher computational requirements (memory, potentially inference time) and act more like a "black box".
 
-*![Report](./Report/Image_Caption_Generator-v2.pdf)*
+*[Report](./Report/Image_Caption_Generator-v2.pdf)*
 
 ## 💡 Future Work
 
