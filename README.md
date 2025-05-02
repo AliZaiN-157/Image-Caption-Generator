@@ -123,6 +123,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 *   **Ali Zain** - K214653@nu.edu.pk
 *   **Ali Shaz** - K213260@nu.edu.pk
-*   ""Bilal Ahmed** - K214864@nu.edu.pk
+*   **Bilal Ahmed** - K214864@nu.edu.pk
 
 
